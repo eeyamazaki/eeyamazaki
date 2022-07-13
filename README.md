@@ -1,5 +1,5 @@
-👋 Olá meu nome é Erick e sou encarregado de Apoio Logístico na SABESP, faço parte do HUB de Inovação da Unidade de Negócio Norte e um dos nossos objetivos é disseminar a cultura Data Driven nos colaboradores!
+👋 Olá! meu nome é Erick e trabalho com dados na SABESP, atualmente esotu me especializando para me tornar um cientista de dados.
 
-Aqui eu compartilho exemplos de projetos e aplicações que realizo e que podem ser utilizadas por outras áreas.
+Aqui eu compartilho exemplos de projetos e aplicações que realizo no dia a dia da empresa.
 
-Gosto de me manter atualizado e sempre aprender coisas novas relacionadas a área de Data Science.
+Gosto de me manter atualizado e sempre aprender coisas novas relacionadas a ciência de dados.
