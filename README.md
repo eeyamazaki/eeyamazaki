@@ -1,5 +1,8 @@
-👋 Olá! meu nome é Erick e trabalho com dados na SABESP, atualmente esotu me especializando para me tornar um cientista de dados.
+Olá, eu sou o Erick! 
+ 
+Sou Cientista de Dados apaixonado por transformar dados em valor real para os negócios.
 
-Aqui eu compartilho exemplos de projetos e aplicações que realizo no dia a dia da empresa.
+Com experiência em projetos de análise preditiva, estatística avançada e automação de processos, atuo principalmente em operações financeiras, logísticas e serviços operacionais. 
 
-Gosto de me manter atualizado e sempre aprender coisas novas relacionadas a ciência de dados.
+Minha trajetória une uma sólida base técnica — Python, SQL, Power BI e Machine Learning — a uma visão estratégica de negócio.Meu objetivo é claro: converter dados complexos em insights acionáveis que impulsionam decisões mais inteligentes, otimizam recursos e geram eficiência operacional sustentável.
+
